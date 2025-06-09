@@ -1,7 +1,7 @@
 
 🌱 **GeoVeda: Empowering Farmers with Land and Soil Insights** 🚜
 
-Bhoomi is a powerful mobile app designed to revolutionize farming practices by providing farmers with essential land and soil insights. Seamlessly integrating with government databases, Bhoomi enables farmers to access detailed land information and conduct comprehensive soil testing, all from the convenience of their smartphones.
+GeoVeda is a powerful mobile app designed to revolutionize farming practices by providing farmers with essential land and soil insights. Seamlessly integrating with government databases, Bhoomi enables farmers to access detailed land information and conduct comprehensive soil testing, all from the convenience of their smartphones.
 
 🌍 **Features**:
 - **Land Details**: Instantly access government databases for comprehensive land information, including ownership details and land use patterns.
